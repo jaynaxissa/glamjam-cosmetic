@@ -1,0 +1,51 @@
+.header{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.header-left{
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    margin-left: 2em;
+}
+.glamjam-logo{
+    width: 40px;
+}
+
+.title{
+    font-weight: 500;
+    margin:0px 2em;
+}
+
+
+.header-right{
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.login-pic{
+    width: 70px;
+}
+
+.cart-button{
+    text-decoration: none;
+    font-weight: 500;
+    margin:0px 2em;
+    display: flex;
+    margin-top: 4px;
+}
+
+.cart-text{
+    margin-top: 2px;
+}
+
+.cart-icon{
+    width: 20px !important;
+    margin-top: 0px !important;
+    margin-left: 5px !important;
+}

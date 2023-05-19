@@ -1,0 +1,109 @@
+html{
+    background-color: #FFEDDF;
+}
+.home-container{
+    display: flex;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.home-left{
+    width: 50%;
+    margin-right: 0.5rem;
+}
+
+.lipgloss-pic{
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
+
+.big-text{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 70px;
+    margin-bottom: 0.5rem;
+}
+
+.description{
+    margin-bottom: 1rem;
+    font-size: 15.2px;
+    font-weight: 500;
+}
+
+.button-row{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.add-cart-button{
+    display: flex;
+    border-radius: 20px;
+    background-color:#FC7B40 ;
+    color: white;
+    width: 50%;
+    height: 60px;
+    margin-right: 10px;
+    padding-right: 5px;
+    padding: 10px;
+}
+
+.wishlist-button{
+    display: flex;
+    border-radius: 20px;
+    background-color: #FEDDC4;
+    width: 50%;
+    height: 60px;
+    margin-left: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding: 10px;
+    
+}
+
+.add-cart-text{
+    margin-left: 10px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-weight: 600;
+}
+
+.add-wishlist-text{
+    margin-left: 10px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-weight: 600;
+}
+
+.carticon{
+    margin-right: 5px;
+    margin-top: 20px;
+    
+}
+
+.hearticon{
+    margin-right: 5px;
+    margin-top: 20px;
+   
+}
+
+.serum-pic{
+    width: 40%;
+    height: auto;
+}
+
+.home-right{
+    width: 50%;
+    margin-left: 0.5rem;
+}
+
+.woman-pic{
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
+
+
