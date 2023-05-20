@@ -34,8 +34,17 @@ const Home = () => {
               <FavoriteBorderIcon className="hearticon" />
             </div>
           </div>
-          <div className="">
+          <div className="serum-and-numbers">
             <img className="serum-pic" src="/images/serum.png" alt="serums" />
+            <div className="all-texts">
+              <img
+                className="orange-star"
+                src="/images/orange-star.png"
+                alt="star"
+              />
+              <div className="big-number">256k</div>
+              <div className="claim">Women adore our skincare</div>
+            </div>
           </div>
         </div>
         <div className="home-right">
@@ -46,13 +55,17 @@ const Home = () => {
               alt="woman"
             />
           </div>
-          <div>
-            <div>
+          <div className="bottom-right-text">
+            <div className="ad">
               Revollutionary for its time, harnessing a certain come-as-you-are
               acceptance
             </div>
-            <div>All reviews</div>
-            <div>picture in circle </div>
+            <div className="review-section">
+              <div className="review-text">All reviews</div>
+              <div className="circle-icon">
+                <img className="woman-circle" src="/images/woman-circle.png" />
+              </div>
+            </div>
           </div>
         </div>
       </div>

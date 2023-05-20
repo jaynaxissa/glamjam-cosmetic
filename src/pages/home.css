@@ -1,6 +1,8 @@
 html{
     background-color: #FFEDDF;
 }
+
+
 .home-container{
     display: flex;
     padding-left: 2rem;
@@ -20,7 +22,7 @@ html{
 
 .big-text{
     font-size: 50px;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 70px;
     margin-bottom: 0.5rem;
 }
@@ -90,10 +92,35 @@ html{
    
 }
 
+.serum-and-numbers{
+    display: flex;
+}
+
 .serum-pic{
     width: 40%;
     height: auto;
+    margin-left: 1rem;
 }
+
+.all-texts{
+    margin-top: 1rem;
+    margin-left: 5rem;
+    
+}
+.orange-star{
+    width: 40%;
+}
+
+.big-number{
+    font-size: 90px;
+    font-weight: 700;
+}
+
+.claim{
+    font-size: 15.2px;
+    font-weight: 500;
+}
+
 
 .home-right{
     width: 50%;
@@ -104,6 +131,39 @@ html{
     width: 100%;
     height: auto;
     border-radius: 30px;
+}
+
+.bottom-right-text{
+    margin-top: 1rem;
+    border-radius: 20px;
+    background-color: #FEDDC4;
+    padding: 1rem 2rem;
+}
+
+.ad{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.review-section{
+    display: flex;
+}
+
+.review-text{
+    font-size: 15.2px;
+    font-weight: 500;
+    margin-top: 3rem;
+    color: #FC7B40;
+}
+
+.circle-icon{
+    width: 50%;
+}
+
+.woman-circle{
+    width: 60%;
+    margin-left: 15rem;
 }
 
 
