@@ -159,11 +159,12 @@ html{
 
 .circle-icon{
     width: 50%;
+    margin-left: auto;
 }
 
 .woman-circle{
-    width: 60%;
-    margin-left: 15rem;
+    width: 50%;
+    margin-left: 50%;
 }
 
 
